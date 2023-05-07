@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @bartsalfischberger
+Hi, I’m @bartsalfischberger
